@@ -19,7 +19,7 @@ int main()
 	
 	// ============== Header=================
 	cout <<"\t\t\t     Nama :Rizky Adi Ryanto\n  "
-	     <<"\t\t\t     Nim  :1901013044\n  "
+	     <<"\t\t\t     Nim  :********  "
 	     <<"\t\t\t     Prodi:Teknik Informatika\n\n"<<endl;
 	cout <<"\t\t\t ====Pogram Hitung Suku ke-N====\n\n";
 	
